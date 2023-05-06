@@ -1,16 +1,19 @@
 body {
-    text-align: center;
     background-color: seagreen;
-    color: #73D2DE;
-    font-family: comic, cursive;
 }
 
 a {
     color: #73D2DE;
 }
 
-p {
+.main {
+    text-align: center;
+    color: #73D2DE;
+    font-family: comic, cursive;
     max-width: 500px;
+}
+
+p {
     margin: 1em auto;
 }
 
