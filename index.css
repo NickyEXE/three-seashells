@@ -11,6 +11,7 @@ a {
     color: #73D2DE;
     font-family: comic, cursive;
     max-width: 500px;
+    margin: 0 auto;
 }
 
 p {
