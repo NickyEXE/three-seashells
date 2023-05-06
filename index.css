@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: seagreen;
+    color: #73D2DE;
+    font-family: comic, cursive;
+}
+
+a {
+    color: #73D2DE;
+}
+
+p {
+    max-width: 500px;
+    margin: 1em auto;
+}
+
+h1 {
+    font-family: pacifico;
+}
+
+@font-face {
+    font-family: pacifico;
+    src: url("./assets/pacifico.ttf");
+}
+
+@font-face {
+    font-family: comic;
+    src: url("./assets/comic.ttf")
+}
